@@ -46,4 +46,4 @@ While many DIY printers use 2020 aluminum, I am fabricating this frame from **st
 The project utilizes a mix of industrial-grade motion components and open-source electronics.
 
 ![BOM Snapshot](https://github.com/MarwanGoat/DIY-3D-PRINTER-/blob/f6e7c540bce8a4007da4ff4e4244e5b62697e1da/3d%20printer%20bom.csv)
-*Figure 4: Complete itemized budget and component list.*
+*Complete itemized budget and component list.*
