@@ -19,6 +19,7 @@ ProCore-XY is a custom-engineered 3D printer designed to bridge the gap between 
 * **Z-Axis:** The build utilizes an **SG2602A-250H Ball Screw Actuator Rail** mounted with a custom cantilever bracket.
 
 ![Steel Frame Blueprint](https://raw.githubusercontent.com/MarwanGoat/DIY-3D-PRINTER-/refs/heads/main/schematics%20and%20blueprints/frame%20blueprint.png)
+
 *Figure 2: Engineering plans for the steel frame and Z-rail bracket.*
 
 ### Electronics & Wiring
