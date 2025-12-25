@@ -3,7 +3,7 @@
 ## 1. Project Overview
 ProCore-XY is a custom-engineered 3D printer designed to bridge the gap between entry-level kits and industrial machines. By designing the frame and motion system from scratch using Onshape, I am learning the fundamentals of CoreXY kinematics, firmware configuration, and structural engineering.
 
-**View the Full CAD Assembly:** [[PASTE YOUR ONSHAPE LINK HERE](https://cad.onshape.com/documents/f675ace4e6a168e97cb3401b/w/ee7959d844951d23f3b9f2f5/e/f9b3ea5ecbe7a33df748d010)]
+**View the Full CAD Assembly:** [[CLICK ME](https://cad.onshape.com/documents/f675ace4e6a168e97cb3401b/w/ee7959d844951d23f3b9f2f5/e/f9b3ea5ecbe7a33df748d010)]
 
 ## 2. Technical Architecture
 
