@@ -44,9 +44,6 @@ ProCore-XY is a custom-engineered 3D printer designed to bridge the gap between 
 Standard budget printers use simple T8 lead screws that lead to "Z-banding." The SG2602A-250H is a fully enclosed actuator rail that constrains the screw at both ends, guaranteeing a perfectly straight Z-path.
 
 **Why Steel over Aluminum?**
-While many DIY printers use 2020 aluminum, I am fabricating this frame from **steel tubing** in my dad's workshop to achieve industrial-level mass and damping, which is critical for high-speed CoreXY movements.
-
-**Why Steel over Aluminum?**
 While many DIY printers rely on standard 2020 aluminum extrusions, I am fabricating this frame from steel tubing to achieve the industrial-level mass and damping critical for high-speed CoreXY movements. To ensure precision, frame fabrication and welding are supervised by my father (a professional metalworker with 16+ years of experience), guaranteeing that the assembly remains strictly orthogonal and free of thermal warping artifacts.
 
 ## 4. Bill of Materials (BOM)
