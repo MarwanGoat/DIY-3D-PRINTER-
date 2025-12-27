@@ -1,5 +1,6 @@
-![Development Status](https://img.shields.io/badge/Status-Designing%20Frame-blue?style=for-the-badge&logo=github)
-![Build Pass](https://img.shields.io/badge/Build-In_Progress-orange?style=for-the-badge)
+![Development Status](https://img.shields.io/badge/Status-Waiting%20on%20Parts-yellow?style=for-the-badge&logo=github)
+![Design](https://img.shields.io/badge/Design-Complete-brightgreen?style=for-the-badge&logo=onshape)
+
 
 # ProCore-XY: High-Precision CoreXY 3D Printer
 
