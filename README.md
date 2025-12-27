@@ -46,6 +46,9 @@ Standard budget printers use simple T8 lead screws that lead to "Z-banding." The
 **Why Steel over Aluminum?**
 While many DIY printers use 2020 aluminum, I am fabricating this frame from **steel tubing** in my dad's workshop to achieve industrial-level mass and damping, which is critical for high-speed CoreXY movements.
 
+**Why Steel over Aluminum?**
+While many DIY printers rely on standard 2020 aluminum extrusions, I am fabricating this frame from steel tubing to achieve the industrial-level mass and damping critical for high-speed CoreXY movements. To ensure precision, frame fabrication and welding are supervised by my father (a professional metalworker with 16+ years of experience), guaranteeing that the assembly remains strictly orthogonal and free of thermal warping artifacts.
+
 ## 4. Bill of Materials (BOM)
 The project utilizes a mix of industrial-grade motion components and open-source electronics.
 
